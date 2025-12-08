@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140.59 104.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6daaf;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #603813;
+      }
+    </style>
+  </defs>
+  <g id="cookie">
+    <ellipse class="cls-1" cx="71.02" cy="69.5" rx="60.02" ry="34.67"/>
+    <rect class="cls-2" x="32.02" y="49.14" width="6.32" height="6.32" rx="1" ry="1"/>
+    <rect class="cls-2" x="64.74" y="43.55" width="6.34" height="6.34" rx="2" ry="2"/>
+    <rect class="cls-2" x="67.43" y="79.12" width="4.6" height="4.6" rx="1" ry="1"/>
+    <rect class="cls-2" x="27.9" y="73.42" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="46.08" y="85.49" width="6.05" height="6.05" rx="2" ry="2"/>
+    <rect class="cls-2" x="86.23" y="64.63" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="96.87" y="81.84" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="52.13" y="60.99" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="104.16" y="53.7" width="6.06" height="6.06" rx="2" ry="2"/>
+    <ellipse class="cls-1" cx="80.07" cy="50.97" rx="60.02" ry="34.67"/>
+    <rect class="cls-2" x="41.07" y="30.6" width="6.32" height="6.32" rx="1" ry="1"/>
+    <rect class="cls-2" x="73.79" y="25.02" width="6.34" height="6.34" rx="2" ry="2"/>
+    <rect class="cls-2" x="76.48" y="60.58" width="4.6" height="4.6" rx="1" ry="1"/>
+    <rect class="cls-2" x="36.94" y="54.89" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="55.13" y="66.95" width="6.05" height="6.05" rx="2" ry="2"/>
+    <rect class="cls-2" x="95.28" y="46.1" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="105.92" y="63.31" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="61.18" y="42.45" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="113.21" y="35.17" width="6.06" height="6.06" rx="2" ry="2"/>
+    <ellipse class="cls-1" cx="60.52" cy="35.17" rx="60.02" ry="34.67"/>
+    <rect class="cls-2" x="21.52" y="14.8" width="6.32" height="6.32" rx="1" ry="1"/>
+    <rect class="cls-2" x="54.24" y="9.21" width="6.34" height="6.34" rx="2" ry="2"/>
+    <rect class="cls-2" x="56.93" y="44.78" width="4.6" height="4.6" rx="1" ry="1"/>
+    <rect class="cls-2" x="17.39" y="39.08" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="35.57" y="51.15" width="6.05" height="6.05" rx="2" ry="2"/>
+    <rect class="cls-2" x="75.73" y="30.29" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="86.36" y="47.5" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="41.63" y="26.65" width="7.29" height="7.29" rx="2" ry="2"/>
+    <rect class="cls-2" x="93.65" y="19.36" width="6.06" height="6.06" rx="2" ry="2"/>
+  </g>
+</svg>

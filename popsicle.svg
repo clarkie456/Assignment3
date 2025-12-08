@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41.34 88.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e2c789;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #ef1f75;
+      }
+
+      .cls-3 {
+        fill: #ce3c79;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="popsicle">
+    <rect class="cls-1" x="8.82" y="36" width="7.07" height="51.74" rx="3.53" ry="3.53"/>
+    <rect class="cls-1" x="25.82" y="36.83" width="7.07" height="51.74" rx="3.53" ry="3.53"/>
+    <path class="cls-2" d="M41.06,6.33c.02.11.03.21.03.32v59.28c0,1.1-.89,2-2,2H2.25c-1.11,0-2-.9-2-2V6.65c0-.11.01-.21.03-.32H.28c-.02-.11-.03-.2-.03-.3C.25,2.83,9.39.25,20.67.25s20.42,2.58,20.42,5.78c0,.1-.01.19-.03.29h0Z"/>
+    <rect class="cls-3" x="8.82" y="5" width="7.07" height="58.02" rx="3.53" ry="3.53"/>
+    <rect class="cls-3" x="25.81" y="5" width="7.07" height="58.02" rx="3.53" ry="3.53"/>
+  </g>
+</svg>
