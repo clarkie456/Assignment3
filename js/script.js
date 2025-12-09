@@ -1,6 +1,7 @@
 console.log("connected")
 
 var errors = 0;
+var score = 0;
 var cardList = [
     "cake",
     "cinnamon",
@@ -101,24 +102,37 @@ function selectCard() {
 
 function update() {
     if (card1Selected.src != card2Selected.src) {
-        //not a match
+        // Wrong match = subtract points
+        errors += 1;
+        score -= 5;  // or any penalty amount
+
         card1Selected.src = "back.svg";
         card2Selected.src = "back.svg";
-        errors += 1;
+
         document.getElementById("errors").innerText = errors;
+        document.getElementById("score").innerText = score;
+    } else {
+        // Correct match
+        score += 10;  // reward
+        document.getElementById("score").innerText = score;
     }
 
     card1Selected = null;
     card2Selected = null;
 }
 
+
 function resetGame() {
     // Clear the board HTML
     document.getElementById("board").innerHTML = "";
+    
+
 
     // Reset game variables
     errors = 0;
     document.getElementById("errors").innerText = errors;
+    score = 100;
+    document.getElementById("score").innerText = score;
     board = [];
     card1Selected = null;
     card2Selected = null;

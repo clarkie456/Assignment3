@@ -1,11 +1,38 @@
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    font-family: "Delius Unicase", regular;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    background-color: #4d3933;     
+}
+
+
+#container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center; 
+    gap: 30px;
+    padding: 30px;
+    
+    
+}
+
+#sidebar {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    text-align: center;
+    gap: 10px;
+    padding: 20px;
+    min-width: 150px;
+    background-color:#854442;
+    text-decoration-color: #FFF4E5;
+    border: 10px solid black;
+    color: #FFF4E5;
 }
+
 
 #resetBtn {
     margin: 20px;
@@ -22,11 +49,11 @@ body {
     width: 90vw;
     max-width: 650px;
     height: 90vh;
-    max-height: 700px;
+    max-height: 750px;
     
     gap: 10px;
-    padding: 10px;
-    background-color: aquamarine;
+    padding: 20px;
+    background-color: lightgrey;
     border: 10px solid black;
     box-sizing: border-box;
 }
@@ -38,8 +65,10 @@ body {
         calc((90vh - 10px*3 - 20px)/4 * (90/128))
     );
     height: 100%;
-    object-fit: contain;
-    aspect-ratio: 90 / 128;   
+    object-fit: contain cover;
+    
+    aspect-ratio: 90 / 128;
+    border: 3px solid black;   
     cursor: pointer;
 }
 
